@@ -1,0 +1,120 @@
+.text-styles-typography-body-large {
+	font-family: Noto Sans, sans-serif;
+	font-size: 24px;
+	line-height: 139.9999976158142%;
+	font-weight: 500;
+}
+.text-styles-typography-body-medium {
+	font-family: Noto Sans, sans-serif;
+	font-size: 20px;
+	line-height: 139.9999976158142%;
+	font-weight: 500;
+}
+.text-styles-typography-body-medium-striked {
+	font-family: Noto Sans, sans-serif;
+	font-size: 20px;
+	line-height: 139.9999976158142%;
+	text-decoration: line-through;
+	font-weight: 500;
+}
+.text-styles-typography-body-medium-underline {
+	font-family: Noto Sans, sans-serif;
+	font-size: 20px;
+	line-height: 139.9999976158142%;
+	text-decoration: underline;
+	font-weight: 500;
+}
+.text-styles-typography-body-regular {
+	font-family: Noto Sans, sans-serif;
+	font-size: 16px;
+	line-height: 139.9999976158142%;
+	font-weight: 400;
+}
+.text-styles-typography-body-regular-striked {
+	font-family: Noto Sans, sans-serif;
+	font-size: 16px;
+	line-height: 139.9999976158142%;
+	text-decoration: line-through;
+	font-weight: 400;
+}
+.text-styles-typography-body-regular-underline {
+	font-family: Noto Sans, sans-serif;
+	font-size: 16px;
+	line-height: 139.9999976158142%;
+	text-decoration: underline;
+	font-weight: 400;
+}
+.text-styles-typography-body-small {
+	font-family: Noto Sans, sans-serif;
+	font-size: 14px;
+	line-height: 139.9999976158142%;
+	font-weight: 500;
+}
+.text-styles-typography-body-small-striked {
+	font-family: Noto Sans, sans-serif;
+	font-size: 14px;
+	line-height: 139.9999976158142%;
+	text-decoration: line-through;
+	font-weight: 500;
+}
+.text-styles-typography-body-small-underline {
+	font-family: Noto Sans, sans-serif;
+	font-size: 14px;
+	line-height: 139.9999976158142%;
+	text-decoration: underline;
+	font-weight: 500;
+}
+.text-styles-typography-headline-expressive {
+	font-family: Noto Sans, sans-serif;
+	font-size: 40px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
+.text-styles-typography-headline-extra-expressive {
+	font-family: Noto Sans, sans-serif;
+	font-size: 48px;
+	line-height: 139.9999976158142%;
+	font-weight: 700;
+}
+.text-styles-typography-headline-large {
+	font-family: Noto Sans, sans-serif;
+	font-size: 24px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
+.text-styles-typography-headline-medium {
+	font-family: Noto Sans, sans-serif;
+	font-size: 20px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
+.text-styles-typography-headline-small {
+	font-family: Noto Sans, sans-serif;
+	font-size: 16px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
+.text-styles-typography-headline-xsmall {
+	font-family: Noto Sans, sans-serif;
+	font-size: 12px;
+	line-height: 120.00000476837158%;
+	font-weight: 700;
+}
+.text-styles-typography-utility-button {
+	font-family: Noto Sans, sans-serif;
+	font-size: 16px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
+.text-styles-typography-utility-helper {
+	font-family: Noto Sans, sans-serif;
+	font-size: 12px;
+	line-height: 139.9999976158142%;
+	font-weight: 500;
+}
+.text-styles-typography-utility-label {
+	font-family: Noto Sans, sans-serif;
+	font-size: 12px;
+	line-height: 139.9999976158142%;
+	font-weight: 600;
+}
